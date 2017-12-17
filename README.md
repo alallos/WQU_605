@@ -1,4 +1,4 @@
-Code from WQU605, Programming in Pythong 1, for WorldQuant University
+Code from WQU605, Programming in Python 1, for WorldQuant University
 
 The programming in Python I course covers the basics of Python programming as it relates to financial
 computing. Students will learn about Python basics, object-oriented programming concepts, will build
